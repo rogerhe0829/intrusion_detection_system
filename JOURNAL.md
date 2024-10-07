@@ -6,3 +6,11 @@ the table for a more convenient future use. All the work was down in the make_sq
 of the feature csv to obtain the Name and the Type. Testing ran successfully.
 
 I also made a deepcopy of the orignal UNSW-NB15_1.csv DataFrame for future data cleaning process. Data cleaning process is started.
+
+
+
+## 10/6/2024
+Data Cleaning started today, today's focus was on the column 'label', this is a binary column which contains value 0 for benign traffic and 1 for malicious traffic. I did counting and percntage analysis, plotting. The next step is oversampling since the benign traffic is siginificantly more than the malicious traffic.
+
+
+
