@@ -1,17 +1,3 @@
-# Step 1: Understanding IDS: N-IDS, H-IDS
-"""1. Understanding network intrusion detection system (N-IDS) and host
-intrusion detection system (H-IDS):
-
-N-IDS is a solution implemented in the organization's network which monitors the incoming
-and outgoing traffic. This solution detects the suspicious traffic in all devices which is
-connected to the organization's network.
-
-H-IDS: Think of it as a plan B for H-IDS. It works in certain fields where N-IDS does not work.
-It detects the malicious traffic which N-IDS cannot detect. It also works when the host is infected
-by malicious traffic and tries to spread it to other devices that are connected to the organization's
-network.
-"""
-
 import unittest     # provides tools for constructing and running tests
 import pandas as pd
 import numpy as np
