@@ -19,3 +19,9 @@ Oversampling in progress: I separated the column 'label' from the rest of the Da
 Joined all four dataframes
 Split into training dataframe and testing dataframe
 Found key features
+
+
+# 11/3/2024
+cont. found key features
+sorted key features index
+extract new data frame which includes only key features
